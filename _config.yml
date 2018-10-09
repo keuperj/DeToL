@@ -1,6 +1,6 @@
 title: DeToL
 logo: BMBF.jepg
-description: AutoML at HPC scale. Find and optimize DNn hyper-parameters and topologies.
+description: AutoML at HPC scale. Find and optimize DNN hyper-parameters and topologies.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
