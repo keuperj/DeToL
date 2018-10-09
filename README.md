@@ -1,3 +1,3 @@
-## Deep Topology Learning [DeToL]
+## Deep Topology Learning 
 
 new website
