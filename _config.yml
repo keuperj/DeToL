@@ -1,5 +1,5 @@
 title: DeToL
-logo: /web/img/logo.png
+logo: logo.png
 description: AutoML at HPC scale. Find and optimize DNn hyper-parameters and topologies.
 show_downloads: true
 google_analytics:
