@@ -1,3 +1,7 @@
 ## Deep Topology Learning 
 
-new website
+DeToL is a joint research project founded by BMBF. We just started, stay tuned for updates.
+
+### Partners
+
+### Job openings
