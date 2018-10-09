@@ -4,4 +4,4 @@ DeToL is a joint research project founded by BMBF. We just started, stay tuned f
 
 ### Partners
 
-### Job openings
+### Job Openings
