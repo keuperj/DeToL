@@ -18,7 +18,7 @@ project, besides the management and organizational tasks, me and my
 group have the task to design and evaluate suitable graph embeddings 
 that facilitate to explore the network topology space in an efficient way.
 
-**DeToL** is funded by BMBF and strated in October 2018.
+**DeToL** is funded by BMBF. Runtime: October 2018 - September 2021.
 
 ## Partners
 
