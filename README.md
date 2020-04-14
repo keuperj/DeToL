@@ -32,6 +32,8 @@ that facilitate to explore the network topology space in an efficient way.
 * [Ying, C., Klein, A., Real, E., Christiansen, E., Murphy, K., & Hutter, F. (2019). NAS-Bench-101: Towards Reproducible Neural Architecture Search. arXiv preprint arXiv:1902.09635.](https://arxiv.org/abs/1902.09635)
 * [Ram, R., Müller, S., Pfreundt, F. J., Gauger, N. R., & Keuper, J. (2019, November). Scalable Hyperparameter Optimization with Lazy Gaussian Processes. In 2019 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC) (pp. 56-65). IEEE.](https://arxiv.org/pdf/2001.05726) - **[Source Code](https://github.com/cc-hpc-itwm/HPO_LazyGPR)**
 * [Habelitz, P. M., & Keuper, J. (2020). PHS: A Toolbox for Parellel Hyperparameter Search. arXiv preprint arXiv:2002.11429.](https://arxiv.org/pdf/2002.11429) - **[Source Code](https://github.com/cc-hpc-itwm/PHS)**
+* [Zela, A., Elsken, T., Saikia, T., Marrakchi, Y., Brox, T., & Hutter, F. (2020). Understanding and Robustifying Differentiable Architecture Search. In International Conference on Learning Representations 2020.](https://arxiv.org/abs/1909.09656) - **[Source Code](https://github.com/automl/RobustDARTS)**
+* [Zela, A., Siems, J., & Hutter, F. (2020). NAS-Bench-1Shot1; Benchmarking and Dissecting One-shot Neural Architecture Search. In International Conference on Learning Representations 2020.](https://arxiv.org/abs/2001.10422) - **[Source Code](https://github.com/automl/nasbench-1shot1)**
 
 
 ## Open Source Software
