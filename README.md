@@ -26,6 +26,15 @@ process, rendering DNNs accessible to unexperienced users.
 ![](2000px-Albert-Ludwigs-Universität_Freiburg_2009_logo.svg.png) 
 
 ## Publications
+* Siems, Julien and Zimmer, Lucas and Zela, Arber and Lukasik, Jovita and Keuper, Margret and Hutter, Frank, NAS-Bench-301 and the Case for Surrogate Benchmarks for Neural Architecture Search, In: arXiv:2008.09777 (2020) (also at NeurIPS 2020 workshop on meta-learning)
+* Zaidi, Sheheryar and Zela, Arber and Elsken, Thomas and Holmes, Chris and Hutter, Frank and Teh, Yee Whye, Neural Ensemble Search for Performant and Calibrated Predictions, In: Workshop on Uncertainty and Robustness in Deep Learning (UDL@ICML`20) (2020), Oral Presentation
+* Lukasik, Jovita and Friede, David and Zela, Arber and Stuckenschmidt, Heiner and Hutter, Frank and Keuper, Margret,  Smooth Variational Graph Embeddings for Efficient Neural Architecture Search, In: arXiv:2010.04683  (2020)
+* Zela, Arber and Siems, Julien and Hutter, Frank, NAS-Bench-1Shot1: Benchmarking and Dissecting One-shot Neural Architecture Search, In: International Conference on Learning Representations 2020
+* Zela, Arber and Elsken, Thomas and Saikia, Tonmoy and Marrakchi, Yassine and Brox, Thomas and Hutter, Frank,, Understanding and Robustifying Differentiable Architecture Search, In: International Conference on Learning Representations 2020, Oral Presentation (Top 7%)
+* Elsken, Thomas and Staffler, Benedikt and Metzen, Jan Hendrik and Hutter, Frank, Meta-Learning of Neural Architectures for Few-Shot Learning, In: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020)
+Oral Presentation (Top 6%)
+* J. Lukasik, M. Keuper, M. Singh, J. Yarkony,  A Benders Decomposition Approach to Correlation Clustering, SC20 workshop on Machine Learning in High Performance Computing Environments (MLHPC, oral presentation)
+* Jovita Lukasik, David Friede, Heiner Stuckenschmidt, M. Keuper, Neural Architecture Performance PredictionUsing Graph Neural Networks,  Proc. Of the German Conference of Pattern Recognition (GCPR), 2020.
 * [Ying, C., Klein, A., Real, E., Christiansen, E., Murphy, K., & Hutter, F. (2019). NAS-Bench-101: Towards Reproducible Neural Architecture Search. arXiv preprint arXiv:1902.09635.](https://arxiv.org/abs/1902.09635)
 * [Ram, R., Müller, S., Pfreundt, F. J., Gauger, N. R., & Keuper, J. (2019, November). Scalable Hyperparameter Optimization with Lazy Gaussian Processes. In 2019 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC) (pp. 56-65). IEEE.](https://arxiv.org/pdf/2001.05726) - **[Source Code](https://github.com/cc-hpc-itwm/HPO_LazyGPR)**
 * [Habelitz, P. M., & Keuper, J. (2020). PHS: A Toolbox for Parellel Hyperparameter Search. arXiv preprint arXiv:2002.11429.](https://arxiv.org/pdf/2002.11429) - **[Source Code](https://github.com/cc-hpc-itwm/PHS)**
