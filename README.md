@@ -55,9 +55,18 @@ Oral Presentation (Top 6%)
 * https://github.com/automl/nas_benchmarks/tree/master/experiment_scripts
 * https://github.com/automl/LCBench
 * https://github.com/lmb-freiburg/autodispnet
+* NASLib (includes implementations of the Predictors paper, NB301, NB101, RobustDARTS): https://github.com/automl/NASLib
+* NAS-Bench-301: https://github.com/automl/nasbench301
+* RobustDARTS: https://github.com/automl/RobustDARTS
+* NAS-Bench-1Shot1: https://github.com/automl/nasbench-1shot1
+* Neural Ensemble Search: https://github.com/automl/nes
+
 
 ## Open Data
-+ -tba-
+* https://github.com/automl/LCBench
+* NAS-Bench-301: https://github.com/automl/nasbench301
+* NAS-Bench-1Shot1: https://github.com/automl/nasbench-1shot1
+
 
 ## Contact
 info@detol.de
