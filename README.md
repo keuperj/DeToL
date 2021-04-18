@@ -33,7 +33,7 @@ process, rendering DNNs accessible to unexperienced users.
 * [Zela, A., Siems, J., & Hutter, F. (2020). NAS-Bench-1Shot1; Benchmarking and Dissecting One-shot Neural Architecture Search. In International Conference on Learning Representations 2020.](https://arxiv.org/abs/2001.10422) - **[Source Code](https://github.com/automl/nasbench-1shot1)**
 * A Variational-Sequential Graph Autoencoder for Neural Architecture Performance Prediction, D Friede, J Lukasik, H Stuckenschmidt, M Keuper, arXiv preprint arXiv:1912.05317
 * Massively parallel benders decomposition for correlation clustering, M Keuper, J Lukasik, M Singh, J Yarkony, arXiv preprint arXiv:1902.05659
-* Tonmoy Saikia, Yassine Marrakchi, Arber Zela, Frank Hutter, Thomas Brox, AutoDispNet: Improving Disparity Estimation With AutoML, IEEE International Conference on Computer Vision (ICCV), 2019
+* [Tonmoy Saikia, Yassine Marrakchi, Arber Zela, Frank Hutter, Thomas Brox, AutoDispNet: Improving Disparity Estimation With AutoML, IEEE International Conference on Computer Vision (ICCV), 2019](https://lmb.informatik.uni-freiburg.de/Publications/2019/SMB19/) - **[Source code](https://github.com/lmb-freiburg/autodispnet)**
 * Ram, R., Müller, S., Pfreundt, F. J., Gauger, N. R., & Keuper, J. . "Scalable Hyperparameter Optimization with Lazy Gaussian Processes." 2019 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC). IEEE, 2019.
 * Chatzimichailidis, A., Keuper, J., Pfreundt, F. J., & Gauger, N. R. . "GradVis: Visualization and Second Order Analysis of Optimization Surfaces during the Training of Deep Neural Networks." 2019 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC). IEEE, 2019
 * [Y. Yang, Y. Yuan, A. Chatzimichailidis, R. JG van Sloun, L. Lei, S. Chatzinotas, "ProxSGD: Training Structured Neural Networks under Regularization and Constraints," in Proc. International Conference on Learning Representation  Apr. 2020.](https://openreview.net/forum?id=HygpthEtvr)
@@ -45,7 +45,7 @@ process, rendering DNNs accessible to unexperienced users.
 ## Open Source Software
 * https://github.com/automl/nas_benchmarks/tree/master/experiment_scripts
 * https://github.com/automl/LCBench
-
+* https://github.com/lmb-freiburg/autodispnet
 
 ## Open Data
 + -tba-
